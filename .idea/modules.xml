@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/motion-layout-hack.iml" filepath="$PROJECT_DIR$/.idea/motion-layout-hack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Motion_Layout_Hack.iml" filepath="$PROJECT_DIR$/.idea/modules/Motion_Layout_Hack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Motion_Layout_Hack.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Motion_Layout_Hack.app.iml" />
     </modules>
   </component>
 </project>
